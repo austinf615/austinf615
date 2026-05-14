@@ -29,9 +29,9 @@
 
 |#  |Project                                       |Status       |
 |:-:|----------------------------------------------|:-----------:|
-|1  |[Prerequisites & Installation](Placeholder)   |🚧 Coming Soon|
-|2  |[Post-Installation Configuration](Placeholder)|🚧 Coming Soon|
-|3  |[Ticket Lifecycle & SLAs](Placeholder)        |🚧 Coming Soon|
+|1  |[Prerequisites & Installation](https://github.com/austinf615/osticket-prereqs)   |🚧 Coming Soon|
+|2  |[Post-Installation Configuration](https://github.com/austinf615/post-install-ost)|🚧 Coming Soon|
+|3  |[Ticket Lifecycle & SLAs](https://github.com/austinf615/ticket-lifecycle)        |🚧 Coming Soon|
 
 </div>
 
@@ -43,9 +43,24 @@
 
 |#  |Project                                                                                                               |
 |:-:|----------------------------------------------------------------------------------------------------------------------|
-|1  |[Configuring On-Premises Active Directory within Azure VMs](Placeholder)            |
-|2  |[Network Security Groups (NSGs) & Network Protocol Analysis](Placeholder)|
-|3  |[Basic DNS Configuration & Testing](Placeholder)                                      |
+|1  |[Preparing Active Directory Infrastructure](Placeholder)            |
+|2  |[Configuring On-Premises Active Directory](Placeholder)            |
+|3  |[Group Policy and Managing Accounts](Placeholder)            |
+|4  |[Network File Shares and Permissions](Placeholder)            |
+|5  |[Hybrid AD and Entra Integration](Placeholder)            |
+|6  |[Network Security Groups (NSGs) & Network Protocol Analysis](Placeholder)            |
+
+</div>
+
+-----
+
+### 💾 Other
+
+<div align="center">
+
+|#  |Project                                                                                                               |
+|:-:|----------------------------------------------------------------------------------------------------------------------|
+|1  |[Network File Shares using Google Drive](Placeholder)            |
 
 </div>
 
