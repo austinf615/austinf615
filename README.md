@@ -43,12 +43,12 @@
 
 |#  |Project                                                                                                               |
 |:-:|----------------------------------------------------------------------------------------------------------------------|
-|1  |[Preparing Active Directory Infrastructure](Placeholder)            |
-|2  |[Configuring On-Premises Active Directory](Placeholder)            |
-|3  |[Group Policy and Managing Accounts](Placeholder)            |
-|4  |[Network File Shares and Permissions](Placeholder)            |
-|5  |[Hybrid AD and Entra Integration](Placeholder)            |
-|6  |[Network Security Groups (NSGs) & Network Protocol Analysis](Placeholder)            |
+|1  |[Preparing Active Directory Infrastructure](https://github.com/austinf615/prepareadinfra)            |
+|2  |[Configuring On-Premises Active Directory](https://github.com/austinf615/configure-ad)            |
+|3  |[Group Policy and Managing Accounts](https://github.com/austinf615/ad-usermanagement)            |
+|4  |[Network File Shares and Permissions](https://github.com/austinf615/filesharing-perms)            |
+|5  |[Hybrid AD and Entra Integration](https://github.com/austinf615/hybridentraad)            |
+|6  |[Network Security Groups (NSGs) & Network Protocol Analysis](https://github.com/austinf615/network-act)            |
 
 </div>
 
@@ -60,7 +60,7 @@
 
 |#  |Project                                                                                                               |
 |:-:|----------------------------------------------------------------------------------------------------------------------|
-|1  |[Network File Shares using Google Drive](Placeholder)            |
+|1  |[Network File Shares using Google Drive](https://github.com/austinf615/nfsgoogle)            |
 
 </div>
 
