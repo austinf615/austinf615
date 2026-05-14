@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-> Aspiring IT Professional passionate about solving real-world tech problems. I focus on help desk operations, cloud infrastructure, and identity management — building hands-on labs to sharpen my skills every day.
+> Aspiring IT Professional passionate about solving real-world tech problems, whether in hardware or software. Building hands-on labs to sharpen my skills every day.
 
 -----
 
