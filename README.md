@@ -23,21 +23,21 @@
 
 ## 🗂️ IT Support Projects
 
-### 🎫 Help Desk (osTicket)
+### 🎫 Help Desk (osTicket) (In Implementation Order)
 
 <div align="center">
 
 |#  |Project                                       |Status       |
 |:-:|----------------------------------------------|:-----------:|
-|1  |[Prerequisites & Installation](https://github.com/austinf615/osticket-prereqs)   |🚧 Coming Soon|
-|2  |[Post-Installation Configuration](https://github.com/austinf615/post-install-ost)|🚧 Coming Soon|
-|3  |[Ticket Lifecycle & SLAs](https://github.com/austinf615/ticket-lifecycle)        |🚧 Coming Soon|
+|1  |[Prerequisites & Installation](https://github.com/austinf615/osticket-prereqs)   |
+|2  |[Post-Installation Configuration](https://github.com/austinf615/post-install-ost)|
+|3  |[Ticket Lifecycle & SLAs](https://github.com/austinf615/ticket-lifecycle)        |
 
 </div>
 
 -----
 
-### ☁️ Microsoft Azure & Active Directory
+### ☁️ Microsoft Azure & Active Directory (In Implementation Order)
 
 <div align="center">
 
@@ -48,7 +48,6 @@
 |3  |[Group Policy and Managing Accounts](https://github.com/austinf615/ad-usermanagement)            |
 |4  |[Network File Shares and Permissions](https://github.com/austinf615/filesharing-perms)            |
 |5  |[Hybrid AD and Entra Integration](https://github.com/austinf615/hybridentraad)            |
-|6  |[Network Security Groups (NSGs) & Network Protocol Analysis](https://github.com/austinf615/network-act)            |
 
 </div>
 
@@ -60,7 +59,8 @@
 
 |#  |Project                                                                                                               |
 |:-:|----------------------------------------------------------------------------------------------------------------------|
-|1  |[Network File Shares using Google Drive](https://github.com/austinf615/nfsgoogle)            |
+|1 |[Network Security Groups (NSGs) & Network Protocol Analysis](https://github.com/austinf615/network-act)            |
+|2  |[Network File Shares using Google Drive](https://github.com/austinf615/nfsgoogle)            |
 
 </div>
 
