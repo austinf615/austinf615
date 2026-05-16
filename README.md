@@ -27,8 +27,8 @@
 
 <div align="center">
 
-|#  |Project                                       |Status       |
-|:-:|----------------------------------------------|:-----------:|
+|#  |Project                                       |
+|:-:|----------------------------------------------|
 |1  |[Prerequisites & Installation](https://github.com/austinf615/osticket-prereqs)   |
 |2  |[Post-Installation Configuration](https://github.com/austinf615/post-install-ost)|
 |3  |[Ticket Lifecycle & SLAs](https://github.com/austinf615/ticket-lifecycle)        |
