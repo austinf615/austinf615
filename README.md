@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-> Aspiring IT Professional passionate about solving real-world tech problems, whether in hardware or software. Building hands-on labs to sharpen my skills every day.
+> Aspiring IT Support professional passionate building hands-on labs in Active Directory, Azure, networking and help desk technologies to develop practical real-world IT skills.
 
 -----
 
@@ -53,7 +53,7 @@
 
 -----
 
-### 💾 Other
+### 💾 Networking / Cloud Labs
 
 <div align="center">
 
